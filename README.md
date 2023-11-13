@@ -3,18 +3,18 @@
 Do not be serious, we just want to know more about you. 
 Please do the exam with fun and we will be waiting to discuss it with you in the next interview session :satisfied:
 
-
 ## Submission Instruction
 Please create a private GitHub repo and add the following usernames for access:
 
-- dew.maris@hugeman.co
+- developer@hugeman.co
+- mu.thanachai@hugeman.co
 - oat.eknarin@hugeman.co
-- tee.theeraporn@hugeman.co
 - boss.phattana@hugeman.co
+- earth.jarikit@hugeman.co
 
-Once done, please send us the repo link via email to dew.maris@hugeman.co
+Once done, please send us the repo link via email to developer@hugeman.co (cc: people@hugeman.co)
 
-If you have any questions, please feel free to contact us via dew.maris@hugeman.co
+If you have any questions, please feel free to contact us via developer@hugeman.co (cc: people@hugeman.co)
 
 ## Objectives
 
@@ -75,16 +75,18 @@ You can develop more additional features as you want to make us ✨ **WOW** ✨ 
     - You can use any Frontend frameworks
         - It would be great if you developed by `Flutter`
     - `Read` and `Write` the data from `JSON` file or `LocalStorage`
+    - Develop the `State Management` by `GetX`
     - Write the `UnitTest`
+        - Code coverage more than 75%
     - UI pages based on Business Requirements
       - You can design the UI as you like    
 
 - **It Would be Great If You Have**
-    - Develop the `State Management` by `BLoC`
     - Develop by the `Clean Architecture` principles
     - For Web
         -  Build and Deploy with Docker
     - For Mobile(iOS or Android)
-        - Build and Deploy application to any Application Distribution tools. For example, Google App Distritution, Apple Store Test Flight, Play Store Test Flight, Vercel and etc.
+        - Build and Deploy application to any Application Distribution tools. For example, Google App Distribution, Apple Store Test Flight, Play Store Test Flight, Vercel and etc.
+    - Responsive UI suitable for mobile and website
 
  :sunglasses: _We are waiting to work with you_ :punch:
