@@ -7,10 +7,13 @@ Please do the exam with fun and we will be waiting to discuss it with you in the
 Please create a private GitHub repo and add the following usernames for access:
 
 - developer@hugeman.co
+
+Backend
 - mu.thanachai@hugeman.co
 - oat.eknarin@hugeman.co
+
+Frontend
 - boss.phattana@hugeman.co
-- earth.jarikit@hugeman.co
 
 Once done, please send us the repo link via email to developer@hugeman.co (cc: people@hugeman.co)
 
