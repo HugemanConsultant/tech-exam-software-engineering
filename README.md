@@ -6,8 +6,6 @@ Please do the exam with fun and we will be waiting to discuss it with you in the
 ## Submission Instruction
 Please create a private GitHub repo and add the following usernames for access:
 
-- developer@hugeman.co
-
 Backend
 - mu.thanachai@hugeman.co
 - oat.eknarin@hugeman.co
@@ -15,7 +13,7 @@ Backend
 Frontend
 - boss.phattana@hugeman.co
 
-Once done, please send us the repo link via email to developer@hugeman.co (cc: people@hugeman.co)
+Once done, please send us the repo link via email to the list from above follow the department that you apply position (cc: people@hugeman.co, developer@hugeman.co)
 
 If you have any questions, please feel free to contact us via developer@hugeman.co (cc: people@hugeman.co)
 
